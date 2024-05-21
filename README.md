@@ -27,8 +27,7 @@ node-valkey is a modern, high performance [Valkey](https://valkey.io) client for
 
 Start a Valkey instance via docker:
 
-> [!NOTE]  
-> An official Docker image for Valkey is not available yet.
+[valkey/valkey](https://hub.docker.com/r/valkey/valkey)
 
 To install node-valkey, simply:
 
